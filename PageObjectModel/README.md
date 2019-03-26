@@ -56,6 +56,6 @@ This project is a Maven project so all the dependencies are mentioned in pom.xml
 To use the project follow the below steps:-
 
 - **Clone this repository**
-- **Open the solution**
+- **Open the solution in Eclipse or intellij**
 - **Rebuild**
 - **Run the SignUp test**
