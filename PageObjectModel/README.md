@@ -16,7 +16,7 @@ In Page Object Pattern operations and flows in the UI are be separated from veri
 One more advantage of POM is keeping object repository independent of test cases, so we can use the same object repository for a different purpose with different tools. For example, **we can integrate POM with TestNG/JUnit for functional Testing and at the same time with JBehave/Cucumber for acceptance testing.**
 In this solution I have used TestNG for functional testing.
 
-## Extend Report:
+## Extent Report:
 Advantages of using Extent Reports are:-
 1. Customisable HTML report with stepwise and pie chart representation.
 2. Displays the time taken for test case execution within the report.
